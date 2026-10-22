@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820">
+  <rect width="1200" height="820" rx="36" fill="#f5f2e9"/>
+  <circle cx="930" cy="180" r="120" fill="#f3c743" opacity=".45"/>
+  <path d="M0 560c180-95 305-68 470 10s300 100 730-5v255H0Z" fill="#dce9d6"/>
+  <path d="M165 575c60-230 228-370 405-398-72 102-106 227-96 360-89 52-197 67-309 38Z" fill="#176b3a"/>
+  <path d="M195 556c80-190 206-286 342-348M291 544c72-148 143-220 238-298" fill="none" stroke="#d8e6cb" stroke-width="14" stroke-linecap="round"/>
+  <path d="M642 232c-9 48-4 95 19 135 57 102 167 154 284 143 69-7 132-47 161-105-64 22-130 22-194-2-101-37-175-117-213-224-25 12-44 30-57 53Z" fill="#e8b928"/>
+  <path d="M610 298c8 84 48 171 119 232 90 76 213 101 329 66 32-10 60-26 83-46-83 16-163 3-232-38-93-55-161-145-196-257-41 2-76 16-103 43Z" fill="#f3c743"/>
+  <path d="M619 302c35 17 68 19 97 10M614 353c36 14 74 13 111-3" fill="none" stroke="#a77c18" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1090 343c18 4 32 2 44-6M1125 480c16-1 29-8 37-20M1088 596c13-7 21-18 24-32" fill="none" stroke="#176b3a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M737 610h340l-34 130H770Z" fill="#9b5a36"/>
+  <path d="M758 646h302M768 686h280" stroke="#c88958" stroke-width="12"/>
+  <path d="M811 606c-24-42-23-82 3-116 39 31 53 69 39 116M904 606c-8-52 8-89 48-113 26 42 27 80 3 113M989 606c8-39 32-66 74-80 13 36 4 64-26 80" fill="#388447"/>
+  <path d="M72 757h1056" stroke="#b32126" stroke-width="8" opacity=".75"/>
+  <text x="78" y="115" fill="#1d2a22" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="4">BANANA DISTRIBUTION · KENYA</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" role="img" aria-labelledby="title desc">
+  <title id="title">Farmer preparing bananas for market</title>
+  <desc id="desc">Illustration of a farmer placing a fresh bunch of bananas in a harvest crate.</desc>
+  <rect width="760" height="500" rx="28" fill="#f5f2e9"/>
+  <circle cx="624" cy="106" r="48" fill="#f3c743" opacity=".7"/>
+  <path d="M0 334c132-59 244-43 365 11 109 48 240 35 395-32v187H0Z" fill="#dce9d6"/>
+  <path d="M41 354c13-71 42-117 89-142-4 45 8 83 39 117-39 26-82 35-128 25Zm589-22c11-69 38-116 82-141-3 45 8 82 36 115-36 25-76 35-118 26Z" fill="#388447"/>
+  <path d="M83 352c26-47 42-91 51-135m504 116c21-47 36-88 45-126" fill="none" stroke="#d8e6cb" stroke-width="8" stroke-linecap="round"/>
+  <path d="M235 500c8-77 20-120 49-154h137c33 35 47 78 54 154Z" fill="#397c63"/>
+  <path d="M279 356c5-39 32-65 76-65s70 25 76 65c-35 18-115 21-152 0Z" fill="#f3c743"/>
+  <ellipse cx="355" cy="237" rx="59" ry="70" fill="#a56a48"/>
+  <path d="M296 224c2-58 25-91 69-91 42 0 67 30 66 79-30-12-57-34-71-59-13 32-33 54-64 71Z" fill="#26332b"/>
+  <path d="M303 227c-20-14-34-6-32 11 2 16 16 27 36 29m121-40c21-14 35-7 33 10-2 17-16 28-37 30" fill="#a56a48"/>
+  <path d="M331 238h7m42 0h7" stroke="#26332b" stroke-width="6" stroke-linecap="round"/>
+  <path d="M335 262c14 11 31 11 45 0" fill="none" stroke="#fffdf8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M277 363c-28 15-56 15-82-1m296 0c26 8 48 2 66-17" fill="none" stroke="#a56a48" stroke-width="17" stroke-linecap="round"/>
+  <path d="M195 356c-23-25-24-49-2-70 25 17 35 39 27 66m-19 15c-30-8-46-26-42-55 29 1 50 15 56 42m248 0c-18-29-15-53 10-70 21 20 26 43 15 68m-11 14c28-12 40-33 31-60-28 4-45 20-47 48" fill="#f3c743" stroke="#a77c18" stroke-width="4"/>
+  <path d="M418 337h226v112H418z" fill="#a96d3c"/>
+  <path d="M407 332h248v24H407zm11 42h226m-226 39h226" fill="none" stroke="#764b2d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M462 320c-4-27 9-46 38-55 18 19 20 37 4 55m9 0c-4-27 10-48 39-58 20 21 21 41 4 58m12 0c-3-26 12-46 41-53 17 21 17 39-1 53m-82-7c-20-21-20-41 1-62 24 13 33 32 23 57" fill="#f3c743" stroke="#a77c18" stroke-width="4"/>
+</svg>

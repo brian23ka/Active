@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" role="img" aria-labelledby="title desc">
+  <title id="title">Farmer holding a bunch of bananas</title>
+  <desc id="desc">Illustration of a farmer in a green field with ripe bananas and banana plants.</desc>
+  <rect width="760" height="500" rx="28" fill="#f5f2e9"/>
+  <circle cx="625" cy="92" r="44" fill="#f3c743" opacity=".7"/>
+  <path d="M0 330c112-64 210-46 326 5 122 54 254 43 434-24v189H0Z" fill="#dce9d6"/>
+  <path d="M80 338c18-79 54-125 107-144-9 45 3 88 34 128-44 26-92 33-141 16Zm481-26c10-81 45-130 100-151-4 47 12 91 45 132-45 23-94 29-145 19Z" fill="#388447"/>
+  <path d="M112 345c31-48 48-89 59-135m442 123c27-47 43-89 49-136" fill="none" stroke="#d8e6cb" stroke-width="8" stroke-linecap="round"/>
+  <path d="M234 500c8-87 20-136 56-165h172c39 36 50 81 57 165Z" fill="#176b3a"/>
+  <path d="M289 326c4-44 27-74 87-74 55 0 83 30 89 74-33 23-139 26-176 0Z" fill="#f3c743"/>
+  <ellipse cx="374" cy="205" rx="67" ry="77" fill="#9b5a36"/>
+  <path d="M304 201c1-64 29-102 82-102 50 0 76 33 75 89-37-14-68-40-83-64-13 35-38 61-74 77Z" fill="#26332b"/>
+  <path d="M306 190c-26-19-43-10-43 13 1 20 19 34 44 35m144-48c25-18 42-9 41 13-1 20-18 33-43 34" fill="#9b5a36"/>
+  <path d="M342 210h8m50 0h8" stroke="#26332b" stroke-width="7" stroke-linecap="round"/>
+  <path d="M353 241c14 10 29 10 43 0" fill="none" stroke="#fffdf8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M251 352c-36 8-69-1-89-25m352 25c34 9 61 1 82-23" fill="none" stroke="#9b5a36" stroke-width="21" stroke-linecap="round"/>
+  <path d="M201 331c-21-24-20-47 2-67 25 17 34 38 27 62m-34 17c-28-13-38-33-30-59 29 4 47 19 52 44" fill="#f3c743" stroke="#a77c18" stroke-width="4"/>
+  <path d="M560 422h121" stroke="#b32126" stroke-width="7" stroke-linecap="round" opacity=".75"/>
+</svg>
